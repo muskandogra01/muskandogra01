@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class Muskan:
@@ -30,14 +30,14 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🧠 [NeuralDocs](https://github.com/muskandogra01) | Full-stack RAG app with semantic search | Next.js 14, Pinecone, OpenAI |
-| 💬 [SentiScope](https://github.com/muskandogra01/SentiScope-Sentiment_Analyzer) | Sentiment analyzer with attention mechanism | PyTorch, Streamlit |
-| 🤖 [Chat With Your Notes](https://github.com/muskandogra01) | RAG system for document Q&A | LangChain, FAISS, OpenAI |
-| 🌐 [Network Anomaly Detection](https://github.com/muskandogra01) | AI-based network threat detection | Python, ML |
+| ✧.*. [NeuralDocs](https://github.com/muskandogra01) | Full-stack RAG app with semantic search | Next.js 14, Pinecone, OpenAI |
+| ⚜ [SentiScope](https://github.com/muskandogra01/SentiScope-Sentiment_Analyzer) | Sentiment analyzer with attention mechanism | PyTorch, Streamlit |
+| •*⁀➷ [Chat With Your Notes](https://github.com/muskandogra01) | RAG system for document Q&A | LangChain, FAISS, OpenAI |
+| ♕ [Network Anomaly Detection](https://github.com/muskandogra01) | AI-based network threat detection | Python, ML |
 
 ---
 
@@ -60,7 +60,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muskandogra01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -73,12 +73,11 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - 🥇 **BNY Mellon Code Divas** — Cleared Round 1
-- 🌍 **Google India The Big Code** — Participated
-- 🤖 **Capgemini Exceller AgentifAI Buildathon 2026** — Competed
-- 💻 **LeetCode** — 189+ Problems Solved
+-  ⚜ **Advanced Personality Development** - Bizgurukul Pvt. Ltd.
+- 💻 **LeetCode** — 80+ Problems Solved
 
 ---
 
@@ -87,6 +86,7 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muskan-dogra)
+[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Code-by-Muskan/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskandogra01)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/muskan00dogra)
 
